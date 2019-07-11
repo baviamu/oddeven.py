@@ -1,0 +1,2 @@
+balhar=input()
+print(balhar)
